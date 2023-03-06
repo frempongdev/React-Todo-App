@@ -1,5 +1,5 @@
 const InputTodo = () => (
-  <div>InputTodo</div>
+  <div>input field here...</div>
 );
 
 export default InputTodo;
