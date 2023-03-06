@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const TodoItem = ({ itemProp, setTodos }) => {
   const handleChange = (id) => {
     // console.log(25);
