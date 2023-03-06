@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const TodoItem = () => {
-  return (
-    <div>TodoItem</div>
-  )
-}
+const TodoItem = () => (
+  <div>TodoItem</div>
+);
 
-export default TodoItem
+export default TodoItem;

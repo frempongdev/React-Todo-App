@@ -1,7 +1,5 @@
-const TodosLogic = () => {
-  return (
-    <div>TodosLogic content</div>
-  )
-}
+const TodosLogic = () => (
+  <div>TodosLogic content</div>
+);
 
-export default TodosLogic
+export default TodosLogic;
